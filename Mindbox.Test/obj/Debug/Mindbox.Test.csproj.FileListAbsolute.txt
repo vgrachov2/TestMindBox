@@ -1,0 +1,7 @@
+c:\Users\drnor_000\documents\visual studio 2012\Projects\Mindbox\Mindbox.Test\bin\Debug\Mindbox.Test.dll
+c:\Users\drnor_000\documents\visual studio 2012\Projects\Mindbox\Mindbox.Test\bin\Debug\Mindbox.Test.pdb
+c:\Users\drnor_000\documents\visual studio 2012\Projects\Mindbox\Mindbox.Test\bin\Debug\Mindbox.dll
+c:\Users\drnor_000\documents\visual studio 2012\Projects\Mindbox\Mindbox.Test\bin\Debug\Mindbox.pdb
+c:\Users\drnor_000\documents\visual studio 2012\Projects\Mindbox\Mindbox.Test\obj\Debug\Mindbox.Test.csprojResolveAssemblyReference.cache
+c:\Users\drnor_000\documents\visual studio 2012\Projects\Mindbox\Mindbox.Test\obj\Debug\Mindbox.Test.dll
+c:\Users\drnor_000\documents\visual studio 2012\Projects\Mindbox\Mindbox.Test\obj\Debug\Mindbox.Test.pdb

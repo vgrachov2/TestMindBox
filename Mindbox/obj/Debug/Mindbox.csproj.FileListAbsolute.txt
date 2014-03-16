@@ -1,0 +1,5 @@
+c:\users\drnor_000\documents\visual studio 2012\Projects\Mindbox\Mindbox\bin\Debug\Mindbox.dll
+c:\users\drnor_000\documents\visual studio 2012\Projects\Mindbox\Mindbox\bin\Debug\Mindbox.pdb
+c:\users\drnor_000\documents\visual studio 2012\Projects\Mindbox\Mindbox\obj\Debug\Mindbox.csprojResolveAssemblyReference.cache
+c:\users\drnor_000\documents\visual studio 2012\Projects\Mindbox\Mindbox\obj\Debug\Mindbox.dll
+c:\users\drnor_000\documents\visual studio 2012\Projects\Mindbox\Mindbox\obj\Debug\Mindbox.pdb
